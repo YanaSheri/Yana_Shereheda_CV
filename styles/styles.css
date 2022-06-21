@@ -3,6 +3,10 @@ body {
     background: #E5E5E5;
 }
 
+a {
+    text-decoration: none;
+}
+
 /* main styles */
 .main {
     display: flex;
