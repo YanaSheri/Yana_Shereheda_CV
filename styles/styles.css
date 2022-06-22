@@ -10,10 +10,10 @@ a {
 /* main styles */
 .main {
     display: flex;
-    flex-direction: row-reverse;
+    /* flex-direction: row-reverse; */
     /* width: 1200px; */
-    width: auto;
-    margin: 100px auto;
+    width: 100vw;
+    margin: 0;
 }
 
 /* main content */
