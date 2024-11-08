@@ -11,9 +11,9 @@ a {
 .main {
     display: flex;
     flex-direction: row-reverse;
-    /* width: 1200px; */
-    width: 100vw;
-    margin: 0;
+    width: 1200px;
+    /* width: 100vw; */
+    margin: 100px auto;
 }
 
 /* main content */
